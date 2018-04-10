@@ -1,6 +1,6 @@
 import turtle
 
-#schermo
+#screen
 wn = turtle.Screen()
 wn.bgcolor("Black")
 wn.title("Game")
