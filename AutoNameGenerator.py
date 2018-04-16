@@ -1,6 +1,6 @@
 import random, string
 
-number_input_letters = input ("How many letters do you want the name to have? ")
+number_input_letters = input ("How many letters do you want the name to have?  ")
 
 input_letters = []
 for j in input_letters:
