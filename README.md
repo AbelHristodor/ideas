@@ -1,2 +1,2 @@
-# ideas
-It's a repo with my ideas and python projects
+# Ideas
+It's a repo with my ideas and python projects. 
