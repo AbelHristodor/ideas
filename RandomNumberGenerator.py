@@ -1,6 +1,6 @@
 import random
 
-numbers = input("How many number do you want? ")
+numbers = input("How many numbers do you want? ")
 num_range1 = input("from ")
 num_range2 = input("to ")
 
