@@ -7,7 +7,7 @@ input_letters = []
 output_letters = []
 
 vowels = "aeiou"
-consonants = "bcdfghjklmnpqrstvwxyz"
+consonants = "bcdfghlmnpqrstvz"
 
 
 for j in range(int(number_input_letters)):
