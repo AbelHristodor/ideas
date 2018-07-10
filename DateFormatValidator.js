@@ -3,10 +3,10 @@ function dateFormatValidator(date){
     patt = /\d\d.\d\d.\d\d\d\d/i
     if (date.search(patt) == -1){
 
-        return "False"
+        return False
     }
     else{
 
-        return "True"
+        return True
     }
 }
