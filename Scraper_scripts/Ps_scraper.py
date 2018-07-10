@@ -51,8 +51,5 @@ del dict[2]
 
 
 
-## ----------------------------Interazione col programma-----------------------------
-def scegliParagrafo(n_titolo):
-    a = int(input("Che Paragrafo vuoi leggere? Usa i numeri."))
-    
+
 
