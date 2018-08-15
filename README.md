@@ -1,2 +1,2 @@
 # Ideas
-It's a repo with my ideas and python projects. 
+Just a repo containing some simple scripts made while learning Python 3
