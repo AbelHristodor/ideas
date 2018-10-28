@@ -29,7 +29,7 @@ for TITOLO in TITOLI:
     print(str(C) + '.' + TEXT)
 
 
-
+"""This last part was not finished - not working properly"""
 
 ##  ----------------------------Si passa ai Paragrafi-------------------------------
 PARAGRAFI = SOUP.select(".paragraph")
